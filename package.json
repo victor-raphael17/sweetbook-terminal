@@ -1,0 +1,23 @@
+{
+  "name": "sweetbook-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "run": "tsc && node dist/index.js"
+  },
+  "author": "Victor Raphael Pedroso de Lima <victorraphaellima2005@gmail.com> (https://github.com/victor-raphael17)",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
