@@ -7,8 +7,8 @@ A version with security features and a React frontend will be released soon, mak
 Thank you for your attention.
 
 # How to run
-1. Clone or download de repository .zip
-2. Go to the cloned/downloaded repository folder
-3. Run 'npm install'
-4. Run 'npm run run' in the first time using
-5. Run 'npm run start' from now on
+1. Clone or download the repository as a .zip file.
+2. Navigate to the cloned/downloaded repository folder.
+3. Run 'npm install'.
+4. Run 'npm run run' the first time you use the program.
+5. Run 'npm start' for subsequent executions.
